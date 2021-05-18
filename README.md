@@ -4,7 +4,8 @@ Currently pursuing 3rd year of Engineering in Computer Science from Sahyadri Col
 
 Skills: REACT / JQUERY / HTML / CSS / PYTHON / FLASK / DJANGO / MYSQL
 
-
+- 🔭 I’m currently working Railway Project
+- 🌱 I’m currently learning DS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harshithkumar2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshith-kumar-bb8947178)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/harshithkumar2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Harshit87947038)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCHp56CNmaOJx3hW0K9ylYMA)  
