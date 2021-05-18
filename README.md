@@ -38,6 +38,8 @@ Skills: REACT / JQUERY / HTML / CSS / PYTHON / FLASK / DJANGO / MYSQL
 </a>  
 </div>  
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithkumar2&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=harshithkumar2&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
 </div>
