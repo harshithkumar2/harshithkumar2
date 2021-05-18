@@ -37,6 +37,9 @@ Skills: REACT / JQUERY / HTML / CSS / PYTHON / FLASK / DJANGO / MYSQL
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+  <br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=harshithkumar2&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
+</div>
 
 <br/>  
