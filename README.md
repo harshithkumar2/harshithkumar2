@@ -15,6 +15,7 @@ Skills: REACT / JQUERY / HTML / CSS / PYTHON / FLASK / DJANGO / MYSQL
 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithkumar2&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithkumar2&show_icons=true)  
 
