@@ -4,7 +4,7 @@ Currently pursuing 3rd year of Engineering in Computer Science from Sahyadri Col
 
 Skills: REACT / JQUERY / HTML / CSS / PYTHON / FLASK / DJANGO / MYSQL
 
-- 🔭 I’m currently working Railway Project
+- 🔭 I’m currently working on Railway Project
 - 🌱 I’m currently learning DS
 
 
